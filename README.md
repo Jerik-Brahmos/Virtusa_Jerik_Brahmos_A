@@ -8,8 +8,9 @@
   - Deposit and withdraw operations  
   - Balance inquiry  
   - Transaction history
-  - 
+  
 ---
+
 ## 2. Python – Fare Calculator
 - Calculates ride fare based on distance, vehicle type, and time  
 - Implements surge pricing during peak hours (5 PM – 8 PM)  
